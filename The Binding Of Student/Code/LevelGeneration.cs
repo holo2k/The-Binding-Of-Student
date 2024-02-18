@@ -106,8 +106,6 @@ namespace The_Binding_Of_Student.Code
                             rooms[i, j].doors.RemoveAll(x => x.Dir == Direction.Right);
                         }
                         rooms[i, j].UpdateState();
-
-                        //rooms[i, j].doors.RemoveAll();
                         rooms[i, j].doors = rooms[i, j].doors.Distinct(new DoorTypeComparer()).ToList();
                     }
             

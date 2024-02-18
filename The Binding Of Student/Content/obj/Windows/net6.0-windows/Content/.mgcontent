@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/0Hearts.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/1Heart.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/2Hearts.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/3Hearts.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/4Hearts.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/Acid.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/backgrondGame.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/boss.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/bossHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/btnExit.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/btnExitPressed.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/btnPlay.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/btnPlayPressed.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/btnSettings.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/btnSettingsPressed.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/downDoor.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/downDoorAnother.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/gameRoom.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/leftDoor.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/leftDoorAnother.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/monster1.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/monster1Hitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/monster2.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/monster2Hitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/monsterNpc.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/monsterNpcHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/rightDoor.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/rightDoorAnother.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/standing.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/standingHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/student.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/Tear.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/uniqueMonster.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/uniqueMonsterHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/upDoor.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/upDoorAnother.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkBack.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkBackHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkForward.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkForwardHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkLeft.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkLeftHitted.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkRight.png</File>
+    <File>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/walkRightHitted.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>backgrondGame</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>btnExit</File>
+    <File>btnExitPressed</File>
+    <File>btnPlay</File>
+    <File>btnPlayPressed</File>
+    <File>btnSettings</File>
+    <File>btnSettingsPressed</File>
+    <File>downDoor</File>
+    <File>downDoorAnother</File>
+    <File>gameRoom</File>
+    <File>leftDoor</File>
+    <File>leftDoorAnother</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>rightDoor</File>
+    <File>rightDoorAnother</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>student</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>upDoor</File>
+    <File>upDoorAnother</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
