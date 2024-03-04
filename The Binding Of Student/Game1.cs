@@ -8,13 +8,6 @@ using The_Binding_Of_Student.Code;
 
 namespace The_Binding_Of_Student
 {
-    public enum State
-    {
-        MainMenu,
-        Game,
-        Pause,
-        End
-    }
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics;
@@ -76,6 +69,9 @@ namespace The_Binding_Of_Student
             MainMenu.btnPlaySize = new Point(Content.Load<Texture2D>("btnPlay").Width, Content.Load<Texture2D>("btnPlay").Height);
             MainMenu.btnSettingsSize = new Point(Content.Load<Texture2D>("btnSettings").Width, Content.Load<Texture2D>("btnSettings").Height);
             MainMenu.btnExitSize = new Point(Content.Load<Texture2D>("btnExit").Width, Content.Load<Texture2D>("btnExit").Height);
+            InformationMenu.Background = Content.Load<Texture2D>("Information");
+            InformationMenu.BtnBack = Content.Load<Texture2D>("backButton");
+            InformationMenu.BtnBackPressed = Content.Load<Texture2D>("btnBackPressed");
             Player.PersonWalkBack = Content.Load<Texture2D>("walkBack");
             Player.PersonWalkForward = Content.Load<Texture2D>("walkForward");
             Player.PersonWalkLeft = Content.Load<Texture2D>("walkLeft");
@@ -145,6 +141,9 @@ namespace The_Binding_Of_Student
                         LevelGeneration.Start();
                     }
                     break;
+                case State.Information:
+                    InformationMenu.Update();
+                    break;
                 case State.End:
 
                     break;
@@ -175,6 +174,9 @@ namespace The_Binding_Of_Student
                         }
                     }
                        
+                    break;
+                case State.Information:
+                    InformationMenu.Draw(_spriteBatch);
                     break;
                 case State.End:
                     

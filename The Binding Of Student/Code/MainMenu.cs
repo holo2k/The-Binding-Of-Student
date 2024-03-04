@@ -35,7 +35,8 @@ namespace The_Binding_Of_Student
         public static Point btnExitSize { get; set; }
         public static Point btnSettingsSize { get; set; }
         public static Texture2D Background { get; set; }
-        static int timeCounter = 0;
+        public static int timeCounter = 0;
+        public static bool switched = false;
         static Color color;
 
         public static void Update()
@@ -49,6 +50,7 @@ namespace The_Binding_Of_Student
             else
             {
                 timeCounter = 200;
+                switched = false;
             }
         }
 
@@ -62,11 +64,10 @@ namespace The_Binding_Of_Student
         static public void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Draw(Background, Vector2.Zero, color);
-            
+            mstate = Mouse.GetState();
             if (Collide(btnPlayPos, btnPlaySize))
             {
                 DrawButtons(spriteBatch, BtnPlayPressed, BtnSettings, BtnExit);
-                mstate = Mouse.GetState();
                 if (Game1.gameFinished == true && mstate.LeftButton == ButtonState.Pressed)
                 {
                     LevelGeneration.Start();
@@ -82,11 +83,15 @@ namespace The_Binding_Of_Student
             else if (Collide(btnSettingsPos, btnSettingsSize))
             {
                 DrawButtons(spriteBatch, BtnPlay, BtnSettingsPressed, BtnExit);
+                if (mstate.LeftButton == ButtonState.Pressed)
+                {
+                    Game1.state = State.Information;
+                }
             }
             else if (Collide(btnExitPos, btnExitSize))
             {
                 DrawButtons(spriteBatch, BtnPlay, BtnSettings, BtnExitPressed);
-                if (mstate.LeftButton == ButtonState.Pressed)
+                if (mstate.LeftButton == ButtonState.Pressed && !switched)
                 {
                     var result = mbox.Show("Уверены, что хотите выйти?\nВесь игровой прогресс удалится.", "Уведомление", System.Windows.Forms.MessageBoxButtons.YesNo, System.Windows.Forms.MessageBoxIcon.Warning);
                     if (result == System.Windows.Forms.DialogResult.Yes)

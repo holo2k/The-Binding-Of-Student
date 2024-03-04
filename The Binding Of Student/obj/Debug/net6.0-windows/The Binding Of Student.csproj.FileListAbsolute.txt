@@ -79,3 +79,88 @@ C:\Users\nneke\source\repos\The Binding Of Student\The Binding Of Student\bin\De
 C:\Users\nneke\source\repos\The Binding Of Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkForwardHitted.xnb
 C:\Users\nneke\source\repos\The Binding Of Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkLeftHitted.xnb
 C:\Users\nneke\source\repos\The Binding Of Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkRightHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\0Hearts.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\1Heart.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\2Hearts.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\3Hearts.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\4Hearts.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\Acid.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\backgrondGame.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\boss.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\bossHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnExit.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnExitPressed.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnPlay.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnPlayPressed.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnSettings.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnSettingsPressed.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\downDoor.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\downDoorAnother.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\gameRoom.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\leftDoor.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\leftDoorAnother.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\monster1.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\monster1Hitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\monster2.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\monster2Hitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\monsterNpc.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\monsterNpcHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\rightDoor.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\rightDoorAnother.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\standing.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\standingHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\student.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\Tear.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\uniqueMonster.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\uniqueMonsterHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\upDoor.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\upDoorAnother.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkBack.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkBackHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkForward.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkForwardHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkLeft.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkLeftHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkRight.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\walkRightHitted.xnb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\The Binding Of Student.exe
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\The Binding Of Student.deps.json
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\The Binding Of Student.runtimeconfig.json
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\The Binding Of Student.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\The Binding Of Student.pdb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.csproj.AssemblyReference.cache
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.AssemblyInfoInputs.cache
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.AssemblyInfo.cs
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.csproj.CoreCompileInputs.cache
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.sourcelink.json
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.csproj.CopyComplete
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\refint\The Binding Of Student.dll
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.pdb
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\The Binding Of Student.genruntimeconfig.cache
+C:\Users\belik\Source\Repos\The-Binding-Of-Student\The Binding Of Student\obj\Debug\net6.0-windows\ref\The Binding Of Student.dll
+C:\Users\belik\source\repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\backButton.xnb
+C:\Users\belik\source\repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\btnBackPressed.xnb
+C:\Users\belik\source\repos\The-Binding-Of-Student\The Binding Of Student\bin\Debug\net6.0-windows\Content\Information.xnb

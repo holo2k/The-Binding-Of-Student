@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\The Binding Of Student",
+    "\\The Binding Of Student\\Code"
   ],
-  "SelectedNode": "\\The Binding Of Student.sln",
+  "SelectedNode": "\\The Binding Of Student\\Code\\ShootingMonster.cs",
   "PreviewInSolutionExplorer": false
 }

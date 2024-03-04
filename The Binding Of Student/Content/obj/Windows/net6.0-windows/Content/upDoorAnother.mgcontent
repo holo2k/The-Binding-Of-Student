@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/upDoorAnother.png</SourceFile>
-  <SourceTime>2024-01-10T17:50:45.6765255+05:00</SourceTime>
-  <DestFile>C:/Users/nneke/source/repos/The Binding Of Student/The Binding Of Student/Content/bin/Windows/Content/upDoorAnother.xnb</DestFile>
-  <DestTime>2024-01-10T18:45:52.918657+05:00</DestTime>
+  <SourceFile>C:/Users/belik/source/repos/The-Binding-Of-Student/The Binding Of Student/Content/upDoorAnother.png</SourceFile>
+  <SourceTime>2024-02-18T12:00:46.1506664+05:00</SourceTime>
+  <DestFile>C:/Users/belik/source/repos/The-Binding-Of-Student/The Binding Of Student/Content/bin/Windows/Content/upDoorAnother.xnb</DestFile>
+  <DestTime>2024-03-04T21:58:43.6555162+05:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T16:44:56+05:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

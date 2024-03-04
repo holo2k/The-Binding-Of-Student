@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = The_Binding_Of_Student
-build_property.ProjectDir = C:\Users\nneke\source\repos\The Binding Of Student\The Binding Of Student\
+build_property.ProjectDir = C:\Users\belik\source\repos\The-Binding-Of-Student\The Binding Of Student\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
